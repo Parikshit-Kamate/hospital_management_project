@@ -16,6 +16,7 @@ import PatientData from './Pages/PatientData.jsx';
 import EnquiryPatientData from './Pages/EnquiryPatientData.jsx';
 import EnquiryDelete from './Pages/EnquiryDelete.jsx';
 
+
 function App() {
   return (
     <div className="App">
